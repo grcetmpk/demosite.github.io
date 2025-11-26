@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "DemoSite"
+  title: "Grace Tompkins"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - courses.qmd
+      - awards.qmd
 
 format:
   html:

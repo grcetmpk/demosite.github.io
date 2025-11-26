@@ -1,16 +1,37 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "DemoSite",
+    "title": "Grace Tompkins",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Graduate Student in Statistics\nUniversity of British Columbia"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Grace Tompkins",
+    "section": "Education",
+    "text": "Education\nBachelor of Science, School | 2019\nMaster of Statistics, School | 2020\nPhD, School | 2025"
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545 (Exploratory Data Analysis)\nSTAT500"
+  },
+  {
+    "objectID": "courses.html#current-courses",
+    "href": "courses.html#current-courses",
+    "title": "Courses",
+    "section": "",
+    "text": "STAT545 (Exploratory Data Analysis)\nSTAT500"
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past Courses",
+    "text": "Past Courses\n\nCHEM500"
   }
 ]

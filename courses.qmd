@@ -1,0 +1,12 @@
+---
+title: "Courses"
+---
+
+## Current Courses
+
+-   [STAT545 (Exploratory Data Analysis)](https://ubc-stat.github.io/STAT545.github.io/)
+-   STAT500
+
+## Past Courses
+
+-   CHEM500
