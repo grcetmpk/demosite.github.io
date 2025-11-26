@@ -1,3 +1,3 @@
-This is the repository for my personal website!
+Here is the repository for my personal website, built with Quarto!
 
-Here's the link: [https://github.com/grcetmpk/demosite.github.io](https://github.com/grcetmpk/demosite.github.io)
+Website link: [https://grcetmpk.github.io/demosite.github.io/](https://grcetmpk.github.io/demosite.github.io/)
