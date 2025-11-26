@@ -14,6 +14,26 @@
     "text": "Education\nBachelor of Science, School | 2019\nMaster of Statistics, School | 2020\nPhD, School | 2025"
   },
   {
+    "objectID": "projects/project2.html#committee",
+    "href": "projects/project2.html#committee",
+    "title": "Master’s Thesis",
+    "section": "Committee",
+    "text": "Committee",
+    "crumbs": [
+      "Master's Thesis"
+    ]
+  },
+  {
+    "objectID": "projects/project2.html#links",
+    "href": "projects/project2.html#links",
+    "title": "Master’s Thesis",
+    "section": "Links",
+    "text": "Links",
+    "crumbs": [
+      "Master's Thesis"
+    ]
+  },
+  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Courses",
@@ -33,6 +53,16 @@
     "title": "Courses",
     "section": "Past Courses",
     "text": "Past Courses\n\nCHEM500"
+  },
+  {
+    "objectID": "projects/project1.html#links",
+    "href": "projects/project1.html#links",
+    "title": "Undergraduate Research Project",
+    "section": "Links",
+    "text": "Links",
+    "crumbs": [
+      "Undergraduate Research Project"
+    ]
   },
   {
     "objectID": "awards.html#regional",

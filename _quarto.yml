@@ -3,13 +3,36 @@ project:
   output-dir: docs
 
 website:
+  favicon: images/mort.jpeg
   title: "Grace Tompkins"
   navbar:
+    background: primary
+    search: true
     left:
       - href: index.qmd
-        text: Home
+        text: " "
+        icon: house-door-fill
       - courses.qmd
       - awards.qmd
+      - sidebar:projects
+    right: 
+      - href: "https://github.com/grcetmpk/demosite.github.io"
+        text: "GitHub"
+        icon: github
+    
+    
+  sidebar: 
+    - id: projects
+      title: "Projects"
+      style: "docked"
+      background: light 
+      collapse-level: 2
+      contents:
+        - projects/project1.qmd
+        - projects/project2.qmd
+
+
+
 
 format:
   html:
